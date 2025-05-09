@@ -12,7 +12,7 @@
 
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", live gandrung nabi
-https://raw.githubusercontent.com/Anang110400/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746825256/ei/yBseaMSrKrab2_gPyaSP8Ao/ip/20.102.199.221/id/xp7_wy_jZgA.17/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/AecWEAa-oDyEfiikGLIr6iOsQAUeimA35S5q1DBc62TdtYDZ7eNfZ9lYXs5K5_8V62H4JCe_XeXULIWF/spc/wk1kZoU6YiPChB0mflx_-pH_a6vZhVBP3-6IoAOg_tD3egrI6634UaIt1ZbZ-Hk/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAM8z2FXZXLaUDOYChZ5Ddxh0ZZQxaFbyiZ3CDLa7TZ8HAiEAlAeHtHX-BgTeAegAb7fAvoNW-Ga72Pel8V9WrZJl7VQ%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Ekattor_TV_logo.svg/190px-Ekattor_TV_logo.svg.png" tvg-id="", live mahesa music
 https://raw.githubusercontent.com/Anang110400/YouTube_to_m3u/main/assets/moose_na.m3u
